@@ -1,5 +1,5 @@
 baseURL = "https://justinejaudzema.github.io/velvel/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Blog. Archival Resources in Latvian Language"
 theme = "ananke"
 publishDir = "docs"
