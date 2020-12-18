@@ -1,7 +1,6 @@
 ---
 title: "My First Post"
 date: 2020-12-18T19:40:46+02:00
-draft: true
 
 author: Justīne
 ---
