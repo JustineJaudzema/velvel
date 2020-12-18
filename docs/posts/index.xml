@@ -18,6 +18,16 @@ The first one is The National Archives of Latvia where there are available handw
     </item>
     
     <item>
+      <title>My Third Post</title>
+      <link>https://justinejaudzema.github.io/velvel/posts/my-third-post/</link>
+      <pubDate>Tue, 15 Dec 2020 21:44:57 +0200</pubDate>
+      
+      <guid>https://justinejaudzema.github.io/velvel/posts/my-third-post/</guid>
+      <description>##Text Recognition for Latvian language.
+Optical Character Recognition (OCR) is a system that provides a full alphanumeric recognition of printed or handwritten characters by simply scanning the text image and is considered a field of research in Artificial Intelligence. This system has made it possible to convert texts that are typed and handwritten into texts usable by the computer. “OCR is a technology that functions like human ability of reading. OCR is not able to compete with human reading capabilities.</description>
+    </item>
+    
+    <item>
       <title>My First Post</title>
       <link>https://justinejaudzema.github.io/velvel/posts/my-first-post/</link>
       <pubDate>Sat, 05 Dec 2020 19:40:46 +0200</pubDate>
