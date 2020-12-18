@@ -23,4 +23,4 @@ text materials are not computer-readable they can be looked at the same way they
 an archive.
 
 
-![Example image](/static/1730.jpg)
+![Example image](C:/Users/Folklora/velvel/static/1730.jpg)
