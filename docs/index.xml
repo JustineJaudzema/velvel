@@ -17,22 +17,22 @@
     </item>
     
     <item>
+      <title>My First Post</title>
+      <link>https://justinejaudzema.github.io/velvel/posts/my-first-post/</link>
+      <pubDate>Sat, 05 Dec 2020 16:40:46 +0200</pubDate>
+      
+      <guid>https://justinejaudzema.github.io/velvel/posts/my-first-post/</guid>
+      <description>Computer-readable text in Latvian Digital humanities is an interdisciplinary area of scholarly activity where digital technologies and humanities are combined. The use of computational methods for research has been a big part of humanities in past few decades all over the world. Unfortunately, in Latvia, using digital methods in research is not as common, although the environment for such a research is widely developed – books, newspapers and archival materials are available in digital format.</description>
+    </item>
+    
+    <item>
       <title>My Second Post</title>
       <link>https://justinejaudzema.github.io/velvel/posts/my-sec-post/</link>
-      <pubDate>Thu, 10 Dec 2020 10:02:31 +0200</pubDate>
+      <pubDate>Sat, 05 Dec 2020 01:40:46 +0200</pubDate>
       
       <guid>https://justinejaudzema.github.io/velvel/posts/my-sec-post/</guid>
       <description>Access to digital archives in Latvia. There are multiple archives and museums in Latvia that offer the possibility to access their materials online.
 The first one is The National Archives of Latvia where there are available handwritten materials sine the 18th century. One of the materials that are appealing to many people is the census of inhabitants of Latvia from the 18th and 19th century until the middle of the 20th century.</description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://justinejaudzema.github.io/velvel/posts/my-first-post/</link>
-      <pubDate>Sat, 05 Dec 2020 19:40:46 +0200</pubDate>
-      
-      <guid>https://justinejaudzema.github.io/velvel/posts/my-first-post/</guid>
-      <description>Computer-readable text in Latvian Digital humanities is an interdisciplinary area of scholarly activity where digital technologies and humanities are combined. The use of computational methods for research has been a big part of humanities in past few decades all over the world. Unfortunately, in Latvia, using digital methods in research is not as common, although the environment for such a research is widely developed – books, newspapers and archival materials are available in digital format.</description>
     </item>
     
   </channel>
