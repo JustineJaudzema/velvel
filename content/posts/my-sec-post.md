@@ -21,6 +21,14 @@ in than flipping manually through the church books.
 
 {{< youtube H6mwU6BfIi8 >}}
 
-Another 
+
+Another freely available resource that is not an archive, but a library – National Library of Latvia. There is more than one 
+database made available by the library. One that is very widely known and used is a database of old pictures called [Zudusī Latvija – Lost Latvia]( https://zudusilatvija.lv/).
+In this database one cane find pictures of places in Latvia that over the years have changed and might not even be recognizable. 
+Another tool which is connected to the text is [Periodika – Periodicals]( http://www.periodika.lv/). The materials in this database
+are printed paper printed from 1748 till 2017. Since the materials are printed this database compared to the previous one has a big
+advantage the materials can be computer-read much easier and thus also are searchable. Though there are some inaccuracies. 
+
+{{< youtube rnYkXma_A8w >}}
 
 [Digital archive garamantas.lv of Latvian Archives of folklore](http://garamantas.lv/)
