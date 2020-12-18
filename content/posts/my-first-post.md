@@ -1,6 +1,6 @@
 ---
 title: "My First Post"
-date: 2020-12-18T19:40:46+02:00
+date: 2020-12-05T19:40:46+02:00
 
 author: Justīne
 ---
@@ -23,4 +23,4 @@ text materials are not computer-readable they can be looked at the same way they
 an archive.
 
 
-![Example image](/1730.jpg)<img src = "/1730.jpg">
+{{<figure src="../img/attelanosaukums.jpg">}}
