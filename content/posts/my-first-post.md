@@ -23,3 +23,5 @@ text materials are not computer-readable they can be looked at the same way they
 an archive.
 
 {{<figure src="../img/1730.jpg">}}
+
+![Example](img/1730.jpg)
