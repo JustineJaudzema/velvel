@@ -31,4 +31,19 @@ advantage the materials can be computer-read much easier and thus also are searc
 
 {{< youtube rnYkXma_A8w >}}
 
-[Digital archive garamantas.lv of Latvian Archives of folklore](http://garamantas.lv/)
+
+The third archive that I wanted to mention in this post is the reason why I am interested in this topic – [Digital Archives of Latvian Folklore garamantas.lv](http://garamantas.lv/) 
+and I have been working in this archive for more than five years. The aim of the digital archives of the ALF is to make the material
+ from the holdings of the Archives of Latvian Folklore, namely – manuscripts, images, audio and video recordings, and other valuable 
+collections of folklore material – available online and readily usable. The digitizing of the archives has been happening for more 
+than five years, this includes scanning, adding metadata, describing collection etc. And on of the aspects is the transcription of 
+the scanned text pictures. Most of the materials are handwritten and by many different people with various [handwritings]( http://garamantas.lv/en/file/905047).
+The option that our archive chose to make these materials searchable and thus the archive more appealing to people was crowdsourcing. 
+By making instructions, inviting people to rewrite materials through social media, making activities and challenges to people and also
+developing platform that is only used for this purpose. The digital archive itself is quite filled with information, different sections,
+a lot of metadata and people can get confused, because of that platform [Simtgades burtnieki]( http://lv100.garamantas.lv/) was made 
+where there is only the basic information about rewriting of texts and no other materials, such as picture or audio files are available. 
+In the 18th od December at 9pm there are 141 964 pages transcribed. Most of the work is done by around 20 people who have been permanent 
+transcribes for many years. 
+
+{{< youtube rpXTdEaoN48 >}}
