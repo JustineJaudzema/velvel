@@ -22,6 +22,5 @@ Latvia that have scanned and made their materials available for a wider audience
 text materials are not computer-readable they can be looked at the same way they could be in 
 an archive.
 
-{{<figure src="../img/1730.jpg">}}
 
-![Example](img/1730.jpg)
+![Example image](/static/1730.jpg)

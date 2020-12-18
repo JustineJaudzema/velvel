@@ -6,7 +6,16 @@
     <description>Recent content on Blog. Archival Resources in Latvian Language</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Dec 2020 19:40:46 +0200</lastBuildDate><atom:link href="https://justinejaudzema.github.io/velvel/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Dec 2020 20:02:31 +0200</lastBuildDate><atom:link href="https://justinejaudzema.github.io/velvel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Secound Post</title>
+      <link>https://justinejaudzema.github.io/velvel/posts/my-sec-post/</link>
+      <pubDate>Fri, 18 Dec 2020 20:02:31 +0200</pubDate>
+      
+      <guid>https://justinejaudzema.github.io/velvel/posts/my-sec-post/</guid>
+      <description>Access to digital archives in Latvia. </description>
+    </item>
+    
     <item>
       <title>My First Post</title>
       <link>https://justinejaudzema.github.io/velvel/posts/my-first-post/</link>
