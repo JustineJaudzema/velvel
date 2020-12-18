@@ -2,7 +2,7 @@
 title: "My First Post"
 date: 2020-12-05T19:40:46+02:00
 
-author: Justīne
+Author: Justīne
 ---
 
 ### Computer-readable text in Latvian

@@ -2,9 +2,10 @@
 title: "My Third Post"
 date: 2020-12-15T21:44:57+02:00
 
+Author: Justīne
 ---
 
-##Text Recognition for Latvian language.
+## Text Recognition for Latvian language.
 
 Optical Character Recognition (OCR) is a system that provides a full alphanumeric recognition of printed
 or handwritten characters by simply scanning the text image and is considered a field of research in 

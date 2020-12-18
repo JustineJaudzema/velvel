@@ -6,25 +6,14 @@
     <description>Recent content in Posts on Blog. Archival Resources in Latvian Language</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Dec 2020 20:02:31 +0200</lastBuildDate><atom:link href="https://justinejaudzema.github.io/velvel/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My Secound Post</title>
-      <link>https://justinejaudzema.github.io/velvel/posts/my-sec-post/</link>
-      <pubDate>Fri, 18 Dec 2020 20:02:31 +0200</pubDate>
-      
-      <guid>https://justinejaudzema.github.io/velvel/posts/my-sec-post/</guid>
-      <description>Access to digital archives in Latvia. There are multiple archives and museums in Latvia that offer the possibility to access their materials online.
-The first one is The National Archives of Latvia where there are available handwritten materials sine the 18th century. One of the materials that are appealing to many people is the census of inhabitants of Latvia from the 18th and 19th century until the middle of the 20th century.</description>
-    </item>
-    
+    <lastBuildDate>Tue, 15 Dec 2020 21:44:57 +0200</lastBuildDate><atom:link href="https://justinejaudzema.github.io/velvel/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Third Post</title>
       <link>https://justinejaudzema.github.io/velvel/posts/my-third-post/</link>
       <pubDate>Tue, 15 Dec 2020 21:44:57 +0200</pubDate>
       
       <guid>https://justinejaudzema.github.io/velvel/posts/my-third-post/</guid>
-      <description>##Text Recognition for Latvian language.
-Optical Character Recognition (OCR) is a system that provides a full alphanumeric recognition of printed or handwritten characters by simply scanning the text image and is considered a field of research in Artificial Intelligence. This system has made it possible to convert texts that are typed and handwritten into texts usable by the computer. “OCR is a technology that functions like human ability of reading. OCR is not able to compete with human reading capabilities.</description>
+      <description>Text Recognition for Latvian language. Optical Character Recognition (OCR) is a system that provides a full alphanumeric recognition of printed or handwritten characters by simply scanning the text image and is considered a field of research in Artificial Intelligence. This system has made it possible to convert texts that are typed and handwritten into texts usable by the computer. “OCR is a technology that functions like human ability of reading. OCR is not able to compete with human reading capabilities.</description>
     </item>
     
     <item>
@@ -34,6 +23,16 @@ Optical Character Recognition (OCR) is a system that provides a full alphanumeri
       
       <guid>https://justinejaudzema.github.io/velvel/posts/my-first-post/</guid>
       <description>Computer-readable text in Latvian Digital humanities is an interdisciplinary area of scholarly activity where digital technologies and humanities are combined. The use of computational methods for research has been a big part of humanities in past few decades all over the world. Unfortunately, in Latvia, using digital methods in research is not as common, although the environment for such a research is widely developed – books, newspapers and archival materials are available in digital format.</description>
+    </item>
+    
+    <item>
+      <title>My Secound Post</title>
+      <link>https://justinejaudzema.github.io/velvel/posts/my-sec-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://justinejaudzema.github.io/velvel/posts/my-sec-post/</guid>
+      <description>Access to digital archives in Latvia. There are multiple archives and museums in Latvia that offer the possibility to access their materials online.
+The first one is The National Archives of Latvia where there are available handwritten materials sine the 18th century. One of the materials that are appealing to many people is the census of inhabitants of Latvia from the 18th and 19th century until the middle of the 20th century.</description>
     </item>
     
   </channel>

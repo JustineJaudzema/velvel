@@ -1,7 +1,8 @@
 ---
 title: "My Secound Post"
-date: 2020-12-18T20:02:31+02:00
+date: 2020-12-T10:02:31+02:00
 
+Author: Justīne
 ---
 
 ## Access to digital archives in Latvia.
@@ -43,7 +44,7 @@ By making instructions, inviting people to rewrite materials through social medi
 developing platform that is only used for this purpose. The digital archive itself is quite filled with information, different sections,
 a lot of metadata and people can get confused, because of that platform [Simtgades burtnieki]( http://lv100.garamantas.lv/) was made 
 where there is only the basic information about rewriting of texts and no other materials, such as picture or audio files are available. 
-In the 18th od December at 9pm there are 141 964 pages transcribed. Most of the work is done by around 20 people who have been permanent 
+In the 18th od December at 9pm there are 141 964 pages transcribed (Form now 829 313 digitaly available pages) . Most of the work is done by around 20 people who have been permanent 
 transcribes for many years. 
 
 {{< youtube rpXTdEaoN48 >}}
