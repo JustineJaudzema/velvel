@@ -9,7 +9,7 @@ date: 2020-12-18T20:02:31+02:00
 
 There are multiple archives and museums in Latvia that offer the possibility to access their materials online.
 
-The first one is [The National Archives of Latvia] (https://www.arhivi.gov.lv/default.aspx?lang=EN)
+The first one is [The National Archives of Latvia](https://www.arhivi.gov.lv/default.aspx?lang=EN)
 where there are available handwritten materials sine the 18th century.
 One of the materials that are appealing to many people is the census of inhabitants of Latvia from the 18th and 19th century
 until the middle of the 20th century. All of these materials are available for anyone interested the only thing that the needs 
