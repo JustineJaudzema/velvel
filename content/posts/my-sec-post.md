@@ -1,5 +1,5 @@
 ---
-title: "My Secound Post"
+title: "My Second Post"
 date: 2020-12-T10:02:31+02:00
 
 Author: Justīne
